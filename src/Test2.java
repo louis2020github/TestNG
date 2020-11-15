@@ -8,6 +8,7 @@ public class Test2 {
         System.out.println("Test2 test called");
 
     }
+    // adding a comment
 
     @Test(priority = 1)
     void failedTest() {
